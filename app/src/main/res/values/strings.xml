@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Coding Challenge</string>
+    <string name="app_name">Delivery Tracking App</string>
 
     <!-- Order Details Strings -->
     <string name="order_details_title">Order Details</string>
