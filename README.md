@@ -1,3 +1,12 @@
+
+## 📱 App Showcase
+
+
+| Loading State (Shimmer) | Order List (All) | Filtered State |
+|:---:|:---:|:---:|
+| <img src="Screenshot_20260507_132907.png" width="250"> | <img src="Screenshot_20260507_132640.png" width="250"> | <img src="Screenshot_20260507_132940.png" width="250"> |
+---
+
 # 🚚 Delivery Tracking System (Android)
 
 A lightweight, scalable Delivery Tracking application built with modern Android development practices.  
@@ -81,3 +90,5 @@ For production readiness, the following enhancements are planned:
 - **Feature-based modularization**
 - **CI/CD pipeline (GitHub Actions)**
 - **Crash reporting & analytics integration**
+- **Linter for coding standards**
+- **Integrate Sonarcube for code coverage and code smells**
